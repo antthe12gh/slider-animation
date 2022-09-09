@@ -4,7 +4,7 @@ const $$ = document.querySelectorAll.bind(document);
 const alls = $$('.container');
 
 const down = $('.ti-arrow-down');
-const up = $('.ti-arrow-up');
+const up = $('.ti-arrow-left');
 
 
 let index = 1;
